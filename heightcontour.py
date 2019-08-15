@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-contourv2.py
+heightcontour.py
 Erin Raif, Dept. of Phys. and Astro./Earth and Env. Sci.
 University of Manchester, August 2019
 
